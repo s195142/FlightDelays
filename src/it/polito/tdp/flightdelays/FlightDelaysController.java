@@ -51,7 +51,7 @@ public class FlightDelaysController {
 
     @FXML
     void doAnalizzaAeroporti(ActionEvent event) {
-
+    		
     }
 
     @FXML
